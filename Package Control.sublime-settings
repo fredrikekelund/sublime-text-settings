@@ -1,11 +1,14 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"Better CoffeeScript",
 		"CSS Comments",
 		"DocBlockr",
 		"Emmet",
 		"Git",
+		"Markdown Extended",
+		"MarkdownEditing",
 		"SideBarEnhancements",
 		"Syntax Highlighting for Sass",
 		"TrailingSpaces"

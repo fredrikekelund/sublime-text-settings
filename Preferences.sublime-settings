@@ -13,10 +13,12 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Markdown Extended",
+		"Vintage",
+		"Markdown"
 	],
-	"translate_tabs_to_spaces": false,
 	"remember_open_files": true,
+	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false
 }
