@@ -1,3 +1,4 @@
 {
-	"mid_line_tabs": true
+	"align_indent": false,
+	"alignment_chars": ["=", ":"]
 }

@@ -1,6 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"enable_tab_scrolling": false,
 	"folder_exclude_patterns":
 	[
@@ -8,16 +8,17 @@
 		".git"
 	],
 	"font_face": "Inconsolata",
-	"font_size": 12,
+	"font_size": 10,
 	"highlight_line": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
 		"Markdown Extended",
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"remember_open_files": true,
+	"theme": "Spacegray Light.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false
